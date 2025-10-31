@@ -62,7 +62,7 @@ h1 {
 .link:hover{
     background-color: #45a049;
     transform: scale(1.05);
-    box-shadow: 6px 6px 12px 10px rgba(183, 181, 181, 0.3);
+    box-shadow: 6px 6px 12px 6px rgba(183, 181, 181, 0.3);
 }
 h1 {
     font-size: 1.3rem;
